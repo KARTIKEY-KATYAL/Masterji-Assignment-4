@@ -111,11 +111,6 @@ Assignment 4/
 ## Live Demo
 [View Live Project](#) (https://bucolic-dodol-8a4ac5.netlify.app/)
 
-## Future Enhancements
-- Add book categories/genres filtering
-- Implement user authentication
-- Add favorite books feature
-- Enable offline functionality using localStorage
 
 ## Author
 Kartikey Katyal
